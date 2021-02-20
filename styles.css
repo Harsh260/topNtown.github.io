@@ -1,0 +1,60 @@
+body{
+    background-image: url('top-n-town.jpg');
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-size : 100%;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+
+.container{
+    width: auto;
+}
+    
+img{
+    width: 10rem;
+    height: 15rem;
+    vertical-align: auto;
+}
+h1{
+    text-align: center;     
+}
+.vote1{
+    padding: 3%;
+}
+.vote2{
+    padding: 3%;
+}
+h4{
+    display: inline;
+}
+.c1{
+    display: inline;
+}
+
+
+
+.ml6 {
+    position: relative;
+    font-weight: 900;
+    font-size: 3.3rem;
+  }
+  
+  .ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+    color: crimson;
+    
+  }
